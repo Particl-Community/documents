@@ -6,7 +6,7 @@ Table of Contents‬
 
 • ‪Familiarize yourself with Particl in #👋welcome‬
 • ‪Learn the rules and roles in #📜rules-and-roles‬
-• ‪Check out the all in one resource anything #🔗useful-links ‬
+• ‪Check out the all in one resource for anything #🔗useful-links ‬
 • ‪See new server members in #👤new-users‬
 
 ‪==============================‬
