@@ -15,7 +15,6 @@ Table of Contents‬
 ‪ PROJECT UPDATES ‬
 
 • ‪Important project updates are made in #🗣announcements
-• ‪Get to know the team in #deleted-channel‬
 • ‪Progress articles are posted in #🆕progress-updates‬
 • Never miss an important date in #events 
 • ‪View Particl's tweets in #🐦project-tweets 
@@ -44,13 +43,12 @@ Table of Contents‬
 • ‪Want to buy something on the Open Marketplace but can't find it? Post about it in #wanted-items 
 • ‪Are you a seller? If so, #vendor-chat may be your best fit!
 
-
 ‪==============================‬
 ‪==============================‬
 
-  INTERNATIONAL ‬
+INTERNATIONAL ‬
 
-  In these international channels you can speak in your native language.
+In these international channels you can speak in your native language.
 
 • ‪#french 
 • ‪#german
