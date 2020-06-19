@@ -14,10 +14,14 @@ This room aggregates all Matrix channels of Particl Project
 💬 **General Discussion**
 https://riot.im/app/#/room/#particl:matrix.org﻿
 
+#particl:matrix.org﻿
+
 ➖➖➖➖➖
 
 📯 **Announcements**
 https://riot.im/app/#/room/#announcements:matrix.org
+
+#announcements:matrix.org
 
 ➖➖➖➖➖
 
@@ -29,29 +33,41 @@ https://bit.ly/2KF4cTN
 📺 **Media**
 https://riot.im/app/#/room/#particlmedia:matrix.org﻿
 
+#particlmedia:matrix.org﻿
+
 ➖➖➖➖➖
 
 🆘 **Help & Support** 
 https://riot.im/app/#/room/#particlhelp:matrix.org
+
+#particlhelp:matrix.org
 
 ➖➖➖➖➖
 
 📈 **Trading & Numbers**
 https://riot.im/app/#/room/#particl-trading:matrix.org
 
+#particl-trading:matrix.org
+
 ➖➖➖➖➖
 
 💓 **The Trollbox**
 https://riot.im/app/#/room/#particl-trollbox:matrix.org
+
+#particl-trollbox:matrix.org
 
 ➖➖➖➖➖
 
 👾 **Open Development**
 https://riot.im/app/#/room/#particl-dev:matrix.org
 
+#particl-dev:matrix.org
+
 ➖➖➖➖➖
 
 🧑‍🦯 **Proposals**
 https://riot.im/app/#/room/#particl-community-ideas:matrix.org
+
+#particl-community-ideas:matrix.org
 
 ➖➖➖➖➖
