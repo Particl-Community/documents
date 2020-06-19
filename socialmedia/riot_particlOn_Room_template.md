@@ -6,48 +6,52 @@ This room aggregates all Matrix channels of Particl Project
 
 **Particl Marketplace** is a multi-vendor marketplace like Amazon but without exposing your personal data, making you earn more money while being able to have products at more reasonable prices.
 
-The leave no trace marketplace!
+**The leave no trace marketplace!**
 
--------------------------
+ 
+## Available Rooms
 
 💬 **General Discussion**
-#particl:matrix.org﻿
+https://riot.im/app/#/room/#particl:matrix.org﻿
 
--------------------------
+➖➖➖➖➖
 
 📯 **Announcements**
-#announcements:matrix.org
+https://riot.im/app/#/room/#announcements:matrix.org
 
--------------------------
+➖➖➖➖➖
 
 💎 **Important Links**
 https://bit.ly/2KF4cTN
 
--------------------------
+➖➖➖➖➖
 
 📺 **Media**
-#particlmedia:matrix.org﻿
+https://riot.im/app/#/room/#particlmedia:matrix.org﻿
 
--------------------------
+➖➖➖➖➖
 
 🆘 **Help & Support** 
-#particlhelp:matrix.org
+https://riot.im/app/#/room/#particlhelp:matrix.org
 
--------------------------
+➖➖➖➖➖
 
 📈 **Trading & Numbers**
-#particl-trading:matrix.org
--------------------------
+https://riot.im/app/#/room/#particl-trading:matrix.org
+
+➖➖➖➖➖
 
 💓 **The Trollbox**
-#particl-trollbox:matrix.org
--------------------------
+https://riot.im/app/#/room/#particl-trollbox:matrix.org
+
+➖➖➖➖➖
 
 👾 **Open Development**
-#particl-dev:matrix.org
--------------------------
+https://riot.im/app/#/room/#particl-dev:matrix.org
+
+➖➖➖➖➖
 
 🧑‍🦯 **Proposals**
-#particl-community-ideas:matrix.org
+https://riot.im/app/#/room/#particl-community-ideas:matrix.org
 
--------------------------
+➖➖➖➖➖
