@@ -1,6 +1,6 @@
 **Bot Commands**
 
-Here the complete list of available bot commands.
+Here the list of available bot commands.
 
 +++++++++++++++++
 
@@ -49,14 +49,15 @@ To interact with the bot in private and to get help open a DM to @tipbot and wri
 `!cat` prints a cat.
 `!dog` prints a dog.
 `.memegen joker "Particl Marketplace" "It's all mine"`creates a meme.
+`.memelist` Prints a list of templates of <https://memegen.link/api/templates/>
 `!country [name]` prints country data.
 
 +++++++++++++++++
 
 *TOOLS*
+
 `.rimg thor hammer` prints a random images with search words.
 `.lmgtfy thor hammer` helps the lazy, lazy people.
 `.wiki thor` queries the wiki.
-`.google thor hammer` prints a google query.
 `.shorten https://reddit.com/r/particl` shortens a link.
-
+`.time London, UK` prints the time.
