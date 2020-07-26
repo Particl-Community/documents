@@ -25,6 +25,7 @@ To interact with the bot in private and to get help open a DM to @tipbot and wri
 
 *SUPPORT*
 
+`!support` prints where to find support and tutorials.
 `!config` prints config folders locations.
 `!howtoreport` prints a text how to report issues if somebody is way too unspecific.
 `!cliunlock` prints process of starting the daemon and unlocking the wallet for staking only on the commandline for linux.
@@ -37,9 +38,8 @@ To interact with the bot in private and to get help open a DM to @tipbot and wri
 *GENERAL Particl*
 
 `!links` prints all important links for Particl.
-`!adhominem` prints the definition of it, if somebody tries to undermine arguments with nonsense.
-`!support` prints where to find support and tutorials.
 `!remindme [time] [reminder]` Example: `!remindme 2 days It's tournament day!`
+`!adhominem` prints the definition of it, if somebody tries to undermine arguments with nonsense.
 
 +++++++++++++++++
 
