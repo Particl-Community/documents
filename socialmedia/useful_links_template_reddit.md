@@ -15,7 +15,7 @@ Particl Marketplace is a multi-vendor marketplace like Amazon but without exposi
 * **Tutorial ColdStaking EN** https://medium.com/@PART_BEN/f1b48ff3de9a
 * **Listing Explorer** https://www.demarkets.io/particl/explorer
 * **Download** https://particl.io/downloads
-* **U.S. enabled Exchange** https://simpleswap.io
+* **U.S. enabled Exchange** https://www.probit.com/app/exchange/PART-BTC
 * **Fundamentals & Values** https://bit.ly/2IsqPcH
 
 ## GENERAL
