@@ -212,30 +212,32 @@ Here a list of twitter accounts which make it easy for you to the twitter game. 
 
 **Branded**
 
-* https://twitter.com/ParticlProject
-* https://twitter.com/particl_page
-* https://twitter.com/ParticlCommunity
-* https://twitter.com/demarkets
-* https://twitter.com/ParticlTribe
-* https://twitter.com/localparticl
+* <https://twitter.com/ParticlProject>
+* <https://twitter.com/particl_page>
+* <https://twitter.com/ParticlCommunity>
+* <https://twitter.com/demarkets>
+* <https://twitter.com/ParticlTribe>
+* <https://twitter.com/localparticl>
 
 **Active Individuals**
 
-* https://twitter.com/crypt0guard
-* https://twitter.com/rosierest3
-* https://twitter.com/thegreatestdoc
-* https://twitter.com/NewsCyberpunk
-* https://twitter.com/quentinbdb
-* https://twitter.com/BTCforGermans
-* https://twitter.com/RobbinHoodie
-* https://twitter.com/MBacoinin
-* https://twitter.com/George87599066
-* https://twitter.com/MoneyInBnkFrank
-* https://twitter.com/MrCryptopoly
-* https://twitter.com/c3lopetra
-* https://twitter.com/acctualdadon
-* https://twitter.com/AllienWorks
-* https://twitter.com/zaSmilingIdiot
-* https://twitter.com/Arantuil1
+* <https://twitter.com/crypt0guard>
+* <https://twitter.com/rosierest3>
+* <https://twitter.com/thegreatestdoc>
+* <https://twitter.com/NewsCyberpunk>
+* <https://twitter.com/quentinbdb>
+* <https://twitter.com/BTCforGermans>
+* <https://twitter.com/RobbinHoodie>
+* <https://twitter.com/MBacoinin>
+* <https://twitter.com/George87599066>
+* <https://twitter.com/MoneyInBnkFrank>
+* <https://twitter.com/MrCryptopoly>
+* <https://twitter.com/c3lopetra>
+* <https://twitter.com/acctualdadon>
+* <https://twitter.com/AllienWorks>
+* <https://twitter.com/zaSmilingIdiot>
+* <https://twitter.com/Arantuil1>
+
+If you want to become a member of this list ping a moderator or promoter to get you on it.
 
 fin
