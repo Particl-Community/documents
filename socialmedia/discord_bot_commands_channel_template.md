@@ -40,6 +40,7 @@ Additionally each language based community under "Global Communities", which has
 *GENERAL Particl*
 
 `!tag links` prints all important links for Particl.
+`!tag mustfollowtwitter` prints a list of twitter accounts to not miss the vocals.
 `!remindme [time] [reminder]` Example: `!remindme 2 days It's tournament day!`
 `!adhominem` prints the definition of it, if somebody tries to undermine arguments with nonsense.
 
