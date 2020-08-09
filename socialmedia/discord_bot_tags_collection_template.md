@@ -239,7 +239,7 @@ Here a list of twitter accounts which make it easy for you to the twitter game. 
 * <https://twitter.com/zaSmilingIdiot>
 * <https://twitter.com/Arantuil1>
 
-**Local Promotors**
+**Local Promoters**
 
 * Spanish <https://twitter.com/jhoanortega04>
 
