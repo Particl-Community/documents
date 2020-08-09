@@ -208,6 +208,8 @@ https://tenor.com/view/cats-ping-pong-gif-8942945
 
 `!tag mustfollowtwitter`
 
+Here a list of twitter accounts which make it easy for you to the twitter game. Follow them -ideally all of them. It doesn't hurt and helps with brand and product recognition.
+
 **Branded**
 
 * https://twitter.com/ParticlProject
