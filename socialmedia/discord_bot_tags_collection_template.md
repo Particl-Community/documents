@@ -228,6 +228,7 @@ Here a list of twitter accounts which make it easy for you to the twitter game. 
 * <https://twitter.com/quentinbdb>
 * <https://twitter.com/BTCforGermans>
 * <https://twitter.com/RobbinHoodie>
+* <https://twitter.com/sy_wen>
 * <https://twitter.com/MBacoinin>
 * <https://twitter.com/George87599066>
 * <https://twitter.com/MoneyInBnkFrank>
