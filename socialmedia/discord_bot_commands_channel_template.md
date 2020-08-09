@@ -25,19 +25,21 @@ To interact with the bot in private and to get help open a DM to @tipbot and wri
 
 *SUPPORT*
 
-`!support` prints where to find support and tutorials.
-`!config` prints config folders locations.
-`!howtoreport` prints a text how to report issues if somebody is way too unspecific.
-`!cliunlock` prints process of starting the daemon and unlocking the wallet for staking only on the commandline for linux.
-`!scratchwindows` prints how to start from scratch on windows.
-`!timesync` prints how to fix timesync problem on windows.
-`!download` prints how to verify downloads and to obtain the latest versions.
+`!tag support` prints where to find support and tutorials.
+`!tag config` prints config folders locations.
+`!tag howtoreport` prints a text how to report issues if somebody is way too unspecific.
+`!tag cliunlock` prints process of starting the daemon and unlocking the wallet for staking only on the commandline for linux.
+`!tag scratchwindows` prints how to start from scratch on windows.
+`!tag timesync` prints how to fix timesync problem on windows.
+`!tag download` prints how to verify downloads and to obtain the latest versions.
+
+Additionally each language based community under "Global Communities", which has an active maintainer, will adopt its local translated versions of tags in their respective language. Those tags are then available within their language based channel with the command template `!tag language-support` which translates to e.g. `!tag spanish-support`
 
 +++++++++++++++++
 
 *GENERAL Particl*
 
-`!links` prints all important links for Particl.
+`!tag links` prints all important links for Particl.
 `!remindme [time] [reminder]` Example: `!remindme 2 days It's tournament day!`
 `!adhominem` prints the definition of it, if somebody tries to undermine arguments with nonsense.
 
