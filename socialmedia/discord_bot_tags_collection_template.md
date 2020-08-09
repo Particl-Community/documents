@@ -206,4 +206,34 @@ https://tenor.com/view/cats-ping-pong-gif-8942945
 
 ---
 
+`!tag mustfollowtwitter`
+
+**Branded**
+
+* https://twitter.com/ParticlProject
+* https://twitter.com/particl_page
+* https://twitter.com/ParticlCommunity
+* https://twitter.com/demarkets
+* https://twitter.com/ParticlTribe
+* https://twitter.com/localparticl
+
+**Active Individuals**
+
+* https://twitter.com/crypt0guard
+* https://twitter.com/rosierest3
+* https://twitter.com/thegreatestdoc
+* https://twitter.com/NewsCyberpunk
+* https://twitter.com/quentinbdb
+* https://twitter.com/BTCforGermans
+* https://twitter.com/RobbinHoodie
+* https://twitter.com/MBacoinin
+* https://twitter.com/George87599066
+* https://twitter.com/MoneyInBnkFrank
+* https://twitter.com/MrCryptopoly
+* https://twitter.com/c3lopetra
+* https://twitter.com/acctualdadon
+* https://twitter.com/AllienWorks
+* https://twitter.com/zaSmilingIdiot
+* https://twitter.com/Arantuil1
+
 fin
