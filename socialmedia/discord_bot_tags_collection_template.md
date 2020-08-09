@@ -239,6 +239,10 @@ Here a list of twitter accounts which make it easy for you to the twitter game. 
 * <https://twitter.com/zaSmilingIdiot>
 * <https://twitter.com/Arantuil1>
 
+**Local Promotors**
+
+* Spanish <https://twitter.com/jhoanortega04>
+
 If you want to become a member of this list ping a moderator or promoter to get you on it.
 
 fin
