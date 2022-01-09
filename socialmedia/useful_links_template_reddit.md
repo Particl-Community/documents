@@ -1,6 +1,14 @@
->**Particl** creates technological solutions that shift the balance of power from monopoly-like organizations to you.
+**Particl** Your enemies are economic and social imbalance. Now you can fight the injustice with your mindset and actions. The world's only free market economy awaits you and the time is now.
 
-**Particl Marketplace** is a one-of-a-kind e-commerce platform that lets you buy and sell goods and services online with nobody in between. It’s just you and the other person you’re dealing with. There’s no company operating, controlling, or benefiting from the marketplace.
+**Apps to claim your rights.**
+
+[particl.io](https://particl.io) 
+
+---
+
+**Particl Marketplace** 
+
+is a one-of-a-kind e-commerce platform that lets you buy and sell goods and services online with nobody in between. It’s just you and the other person you’re dealing with. There’s no company operating, controlling, or benefiting from the marketplace.
 
 Unlike Amazon, eBay, or any other in-betweens, it is built with core security and privacy principles that keep you and your data safe at all times.
 
@@ -19,6 +27,18 @@ Stand for fairness for consumers, equal opportunity for merchants and vendors, a
 * You fight against global economic and social inequalities.
 
 Advanced and easy-to-use technology empowers you, your local economy, but not the corporate monopolies that prey on it. Feel like a hero fighting our generation’s most powerful villains!
+
+[particl.io/marketplace](https://particl.io/marketplace)
+
+---
+
+**Particl Coin** 
+
+send and receive money super confidential with nobody in between. PART is the digital currency, built on industry-leading privacy tech, that works just like cash, but digital.
+
+[particl.io/coin](https://particl.io/coin)
+ 
+---
 
 ## QUICKLINKS
 
