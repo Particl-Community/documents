@@ -1,50 +1,61 @@
-This channel aggregates all Telegram channels of Particl Project
+**Particl** Your enemies are economic and social imbalance. Now you can fight the injustice with your mindset and actions. The world's only free market economy awaits you and the time is now.
 
-**Particl** is a privacy-first and censorship-resistant eCommerce platform. Built on blockchain technology. It restores the balance of power towards the individual, not corporations or governments, by decentralizing core aspects of today’s internet and today’s economy.
+**Particl Marketplace** Buy and sell anything free of commissions, restrictions, and prying eyes. Start doing what's best for you and your business, not monopolies. Particl has no intention to make profits, and you can be sure that Particl Marketplace will cover your protection needs from all angles.
 
-**Particl Marketplace** is a multi-vendor marketplace like Amazon but without exposing your personal data, making you earn more money while being able to have products at more reasonable prices.
+**Apps to claim your rights.**
+particl.io
 
-The leave no trace marketplace!
+➖➖➖➖➖
 
----
-
-———————————————
-
-💬 General Discussion
-https://t.me/particlproject
+💬 General Chat
+t.me/particlproject
 
 ———————————————
 
-📯 News
-https://t.me/particlnews
+⚡️ News & Updates
+t.me/particlnews
 
 ———————————————
 
 🆘 Help & Support
-https://t.me/particlhelp
+t.me/particlhelp
 
 ———————————————
 
 📈 Trading & Numbers
-https://t.me/particl_trading
+t.me/particl_trading
 
 ———————————————
 
 🧑‍🦯 Proposals
-https://t.me/particlproposals
+t.me/particlproposals
 
 ———————————————
 
-💓 The Trollbox
-https://t.me/ParticlOffTopic
+💓 Offtopic aka „The Trollbox“
+t.me/ParticlOffTopic
 
 ———————————————
 
-💎 Important Links
-https://bit.ly/2KF4cTN
+💎 Particl Academy
+academy.particl.io
 
 ———————————————
+
+🍒 Blog
+particl.news
+
+———————————————
+
+🏕 Getting started
+reddit.com/r/Particl/comments/pxu0py/getting_started/
+
+———————————————
+
+👾 Master your telegram clutter 
+E.g. by creating a dedicated Particl folder.
+
+https://telegram.org/blog/folders 
+
 
 ---
-
-Happy exploring the Particl side of life!
